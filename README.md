@@ -1,2 +1,2 @@
-# algorithm-c-
+# algorithm
 algorithm notebook

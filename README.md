@@ -8,4 +8,5 @@
 | 1132 | [文科生的悲哀](http://122.139.62.222:88/JudgeOnline/problem.php?id=1132) | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/1132/1132.cpp) | 递推 |
 | 1133 | [汉诺塔](http://122.139.62.222:88/JudgeOnline/problem.php?id=1133) | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/1133/1133.cpp) | 递推 |
 | 1134 | [放球问题](http://122.139.62.222:88/JudgeOnline/problem.php?id=1134) | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/1134/1134.cpp) | 递推 |
+| 1135 | [错排问题](http://122.139.62.222:88/JudgeOnline/problem.php?id=1135) | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/1135/1135.cpp) | 递推 |
 

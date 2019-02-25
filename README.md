@@ -11,4 +11,5 @@
 | 1135 | [错排问题](http://122.139.62.222:88/JudgeOnline/problem.php?id=1135) | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/1135/1135.cpp) | 递推 |
 | 1136 | [核电站问题](http://122.139.62.222:88/JudgeOnline/problem.php?id=1136) | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/1136/1136.cpp) | 递推 |
 | 1137 | [出栈序列](http://122.139.62.222:88/JudgeOnline/problem.php?id=1137) | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/1137/1137.cpp) | 递推 |
+| 1138 | [加括号](http://122.139.62.222:88/JudgeOnline/problem.php?id=1138) | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/1138/1138.cpp) | 递推 |
 

@@ -14,4 +14,5 @@
 | 1138 | [加括号](http://122.139.62.222:88/JudgeOnline/problem.php?id=1138) | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/1138/1138.cpp) | 递推 |
 | 1139 | [凸多边形划分](http://122.139.62.222:88/JudgeOnline/problem.php?id=1139) | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/1139/1139.cpp) | 递推 |
 | 1140 | [数的划分问题一](http://122.139.62.222:88/JudgeOnline/problem.php?id=1140) | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/1140/1140.cpp) | 递推 |
+| 1141 | [数的划分问题二](http://122.139.62.222:88/JudgeOnline/problem.php?id=1141) | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/1141/1141.cpp) | 递推 |
 

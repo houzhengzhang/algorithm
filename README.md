@@ -18,4 +18,5 @@
 | 1142  | [数的划分问题三](http://122.139.62.222:88/JudgeOnline/problem.php?id=1142) | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/1142/1142.cpp) | 递推 |
 | p1003 | [铺地毯](https://www.luogu.org/problemnew/show/P1003)        | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/p1003/p1003.cpp) | 模拟 |
 | p1067 | [多项式输出](https://www.luogu.org/problemnew/show/P1067)    | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/p1067/p1067.cpp) | 模拟 |
+| 1161  | [取余运算](http://122.139.62.222:88/JudgeOnline/problem.php?id=1161) | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/1161/1161.cpp) | 分治 |
 

@@ -21,4 +21,4 @@
 | 1161  | [取余运算](http://122.139.62.222:88/JudgeOnline/problem.php?id=1161) | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/1161/1161.cpp) | 分治 |
 | p1090 | [合并果子](https://www.luogu.org/problemnew/show/P1090)      | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/p1090/p1090.cpp) | 贪心 |
 | p1181 | [数列分段](https://www.luogu.org/problemnew/show/P1181)      | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/p1181/p1181.cpp) | 贪心 |
-
+| p1208 | [混合牛奶](https://www.luogu.org/problemnew/show/P1208)      | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/p1208/p1208.cpp) | 贪心 |

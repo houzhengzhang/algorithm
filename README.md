@@ -23,4 +23,5 @@
 | p1181 | [数列分段](https://www.luogu.org/problemnew/show/P1181)      | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/p1181/p1181.cpp) | 贪心 |
 | p1208 | [混合牛奶](https://www.luogu.org/problemnew/show/P1208)      | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/p1208/p1208.cpp) | 贪心 |
 | p1223 | [排队接水](https://www.luogu.org/problemnew/show/P1223)      | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/p1223/p1223.cpp) | 贪心 |
+| p1219 | [八皇后](https://www.luogu.org/problemnew/show/P1219)        | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/p1219/p1219.cpp) | dfs  |
 

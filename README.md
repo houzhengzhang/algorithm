@@ -25,4 +25,5 @@
 | p1223 | [排队接水](https://www.luogu.org/problemnew/show/P1223)      | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/p1223/p1223.cpp) | 贪心 |
 | p1219 | [八皇后](https://www.luogu.org/problemnew/show/P1219)        | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/p1219/p1219.cpp) | dfs  |
 | p1019 | [单词接龙](https://www.luogu.org/problemnew/show/P1019)      | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/p1019/p1019.cpp) | dfs  |
+| p1506 | [拯救oibh总部](https://www.luogu.org/problemnew/show/P1506)  | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/p1506/p1506.cpp) | dfs  |
 

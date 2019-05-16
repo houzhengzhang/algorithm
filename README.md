@@ -29,4 +29,5 @@
 | p1162 | [填充颜色](https://www.luogu.org/problemnew/show/P1162)      | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/p1162/p1162.cpp) | dfs    |
 | p1551 | [亲戚](https://www.luogu.org/problemnew/show/P1551)          | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/p1551/p1551.cpp) | 并查集 |
 | p3367 | [并查集](https://www.luogu.org/problemnew/show/P3367)        | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/p3367/p3367.cpp) | 并查集 |
+| p1111 | [并查集](https://www.luogu.org/problemnew/show/P1111)        | [C++](https://github.com/houzhengzhang/algorithm/blob/master/algorithm/p1111/p1111.cpp) | 并查集 |
 
